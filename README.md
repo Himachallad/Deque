@@ -1,49 +1,57 @@
 # Deque
-JS Deque
 
-**offerLast()**
+# Usage:
+`const deque = new Deque();`
+
+
+**offerLast()**\
 Adds elements to the last of Deque.
 
 | Time-complexity|
 | :---: |
 | O(1) |
+<br />
 
-**isEmpty()**
+**isEmpty()**\
 Check if Deque is empty
 
 | Time-complexity|
 | :---: |
 | O(1) |
+<br />
 
-**offerFirst()**
+**offerFirst()**\
 Adds elements to the front of Deque.
 
 | Time-complexity|
 | :---: |
 | O(1) |
+<br />
 
-**pollFirst()**
+**pollFirst()**\
 Delete first element and return element (or undefined) of Deque.
 
 | Time-complexity|
 | :---: |
 | O(1) |
+<br />
 
-**peekFirst()**
+**peekFirst()**\
 Return first element (or undefined) of Deque.
 
 | Time-complexity|
 | :---: |
 | O(1) |
+<br />
 
-**pollLast()**
+**pollLast()**\
 Delete last element and return element (or undefined) of Deque.
 
 | Time-complexity|
 | :---: |
 | O(1) |
 
-**peekLast()**
+**peekLast()**\
 Return last element (or undefined) of Deque.
 
 | Time-complexity|
